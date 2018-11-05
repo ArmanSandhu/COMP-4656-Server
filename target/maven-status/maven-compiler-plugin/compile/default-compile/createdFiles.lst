@@ -1,0 +1,11 @@
+ca\bcit\comp4656\assign2ws\jpa\entity\EmployeeResponse.class
+ca\bcit\comp4656\assign2ws\jpa\entity\Employee.class
+ca\bcit\comp4656\assign2ws\services\EmployeeService.class
+ca\bcit\comp4656\assign2ws\jpa\entity\ResponseCode.class
+ca\bcit\comp4656\assign2ws\jpa\entity\EmployeeException.class
+ca\bcit\comp4656\assign2ws\rest\EmployeeResource.class
+ca\bcit\comp4656\assign2ws\ejb\EmployeeLocal.class
+ca\bcit\comp4656\assign2ws\ejb\EmployeeBean.class
+ca\bcit\comp4656\assign2ws\rest\ConfigApp.class
+ca\bcit\comp4656\assign2ws\services\EmployeeServiceImpl.class
+ca\bcit\comp4656\assign2ws\util\PropertiesUtil.class
